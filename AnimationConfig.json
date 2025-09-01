@@ -1,0 +1,370 @@
+{
+  "sequences": [
+    {
+      "sequenceName": "序列_1",
+      "isParallel": false,
+      "delay": 0.0,
+      "animations": [
+        {
+          "animationName": "动画_1",
+          "targetObjectPath": "Cube",
+          "useLocalSpace": true,
+          "startTransform": {
+            "position": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "magnitude": 0.0,
+              "sqrMagnitude": 0.0
+            },
+            "rotation": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "magnitude": 0.0,
+              "sqrMagnitude": 0.0
+            },
+            "scale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0,
+              "normalized": {
+                "x": 0.577350259,
+                "y": 0.577350259,
+                "z": 0.577350259,
+                "magnitude": 1.0,
+                "sqrMagnitude": 0.99999994
+              },
+              "magnitude": 1.73205078,
+              "sqrMagnitude": 3.0
+            },
+            "duration": 1.0,
+            "easeType": 6,
+            "enableActiveControl": false,
+            "activeState": true,
+            "SafeDuration": 1.0
+          },
+          "targetTransforms": [
+            {
+              "position": {
+                "x": 5.0,
+                "y": 0.0,
+                "z": 0.0,
+                "normalized": {
+                  "x": 1.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 5.0,
+                "sqrMagnitude": 25.0
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "magnitude": 0.0,
+                "sqrMagnitude": 0.0
+              },
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0,
+                "normalized": {
+                  "x": 0.577350259,
+                  "y": 0.577350259,
+                  "z": 0.577350259,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 0.99999994
+                },
+                "magnitude": 1.73205078,
+                "sqrMagnitude": 3.0
+              },
+              "duration": 1.0,
+              "easeType": 6,
+              "enableActiveControl": false,
+              "activeState": true,
+              "SafeDuration": 1.0
+            }
+          ]
+        },
+        {
+          "animationName": "动画_2",
+          "targetObjectPath": "Cube",
+          "useLocalSpace": true,
+          "startTransform": {
+            "position": {
+              "x": 5.0,
+              "y": 0.0,
+              "z": 0.0,
+              "normalized": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 0.0,
+                "magnitude": 1.0,
+                "sqrMagnitude": 1.0
+              },
+              "magnitude": 5.0,
+              "sqrMagnitude": 25.0
+            },
+            "rotation": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "magnitude": 0.0,
+              "sqrMagnitude": 0.0
+            },
+            "scale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0,
+              "normalized": {
+                "x": 0.577350259,
+                "y": 0.577350259,
+                "z": 0.577350259,
+                "magnitude": 1.0,
+                "sqrMagnitude": 0.99999994
+              },
+              "magnitude": 1.73205078,
+              "sqrMagnitude": 3.0
+            },
+            "duration": 1.0,
+            "easeType": 6,
+            "enableActiveControl": false,
+            "activeState": true,
+            "SafeDuration": 1.0
+          },
+          "targetTransforms": [
+            {
+              "position": {
+                "x": 5.0,
+                "y": 2.0,
+                "z": 0.0,
+                "normalized": {
+                  "x": 0.9284767,
+                  "y": 0.371390671,
+                  "z": 0.0,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 5.38516474,
+                "sqrMagnitude": 29.0
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "magnitude": 0.0,
+                "sqrMagnitude": 0.0
+              },
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0,
+                "normalized": {
+                  "x": 0.577350259,
+                  "y": 0.577350259,
+                  "z": 0.577350259,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 0.99999994
+                },
+                "magnitude": 1.73205078,
+                "sqrMagnitude": 3.0
+              },
+              "duration": 1.0,
+              "easeType": 6,
+              "enableActiveControl": false,
+              "activeState": true,
+              "SafeDuration": 1.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sequenceName": "序列_2",
+      "isParallel": false,
+      "delay": 0.0,
+      "animations": [
+        {
+          "animationName": "动画_1",
+          "targetObjectPath": "Cube",
+          "useLocalSpace": true,
+          "startTransform": {
+            "position": {
+              "x": 5.0,
+              "y": 2.0,
+              "z": 0.0,
+              "normalized": {
+                "x": 0.9284767,
+                "y": 0.371390671,
+                "z": 0.0,
+                "magnitude": 1.0,
+                "sqrMagnitude": 1.0
+              },
+              "magnitude": 5.38516474,
+              "sqrMagnitude": 29.0
+            },
+            "rotation": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "magnitude": 0.0,
+              "sqrMagnitude": 0.0
+            },
+            "scale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0,
+              "normalized": {
+                "x": 0.577350259,
+                "y": 0.577350259,
+                "z": 0.577350259,
+                "magnitude": 1.0,
+                "sqrMagnitude": 0.99999994
+              },
+              "magnitude": 1.73205078,
+              "sqrMagnitude": 3.0
+            },
+            "duration": 1.0,
+            "easeType": 6,
+            "enableActiveControl": false,
+            "activeState": true,
+            "SafeDuration": 1.0
+          },
+          "targetTransforms": [
+            {
+              "position": {
+                "x": 0.0,
+                "y": 2.0,
+                "z": 0.0,
+                "normalized": {
+                  "x": 0.0,
+                  "y": 1.0,
+                  "z": 0.0,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 2.0,
+                "sqrMagnitude": 4.0
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "magnitude": 0.0,
+                "sqrMagnitude": 0.0
+              },
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0,
+                "normalized": {
+                  "x": 0.577350259,
+                  "y": 0.577350259,
+                  "z": 0.577350259,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 0.99999994
+                },
+                "magnitude": 1.73205078,
+                "sqrMagnitude": 3.0
+              },
+              "duration": 1.0,
+              "easeType": 6,
+              "enableActiveControl": false,
+              "activeState": true,
+              "SafeDuration": 1.0
+            }
+          ]
+        },
+        {
+          "animationName": "动画_2",
+          "targetObjectPath": "Cube",
+          "useLocalSpace": true,
+          "startTransform": {
+            "position": {
+              "x": 0.0,
+              "y": 2.0,
+              "z": 0.0,
+              "normalized": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "magnitude": 1.0,
+                "sqrMagnitude": 1.0
+              },
+              "magnitude": 2.0,
+              "sqrMagnitude": 4.0
+            },
+            "rotation": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "magnitude": 0.0,
+              "sqrMagnitude": 0.0
+            },
+            "scale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0,
+              "normalized": {
+                "x": 0.577350259,
+                "y": 0.577350259,
+                "z": 0.577350259,
+                "magnitude": 1.0,
+                "sqrMagnitude": 0.99999994
+              },
+              "magnitude": 1.73205078,
+              "sqrMagnitude": 3.0
+            },
+            "duration": 1.0,
+            "easeType": 6,
+            "enableActiveControl": false,
+            "activeState": true,
+            "SafeDuration": 1.0
+          },
+          "targetTransforms": [
+            {
+              "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "magnitude": 0.0,
+                "sqrMagnitude": 0.0
+              },
+              "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "magnitude": 0.0,
+                "sqrMagnitude": 0.0
+              },
+              "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0,
+                "normalized": {
+                  "x": 0.577350259,
+                  "y": 0.577350259,
+                  "z": 0.577350259,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 0.99999994
+                },
+                "magnitude": 1.73205078,
+                "sqrMagnitude": 3.0
+              },
+              "duration": 1.0,
+              "easeType": 6,
+              "enableActiveControl": false,
+              "activeState": true,
+              "SafeDuration": 1.0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "saveTime": "2025-09-01T20:18:59.9994324+08:00",
+  "version": "1.0"
+}
